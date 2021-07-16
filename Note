@@ -1,0 +1,3 @@
+pip freeze               -   to know all the dependencies required for this project
+pip freeze > requirements.txt - move all those into a file named requirements.txt
+pip install -r requirements.txt - installs all the dependencies that are required
