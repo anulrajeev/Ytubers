@@ -1,4 +1,4 @@
-YTubers – A Django based web application for youtubers
+YTubers – A Django based Web Application for Youtubers
 ===
 
   A web portal where companies can hire youtubers based on the youtuber’s experience and interests for promoting their events in youtube. 	
